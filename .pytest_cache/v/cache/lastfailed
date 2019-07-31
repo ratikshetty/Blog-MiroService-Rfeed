@@ -1,0 +1,9 @@
+{
+  "test1_user.tavern.yaml::Change a user password for a deleted user": true, 
+  "test_article_api.tavern.yaml::Posting an article": true, 
+  "test_article_api.tavern.yaml::Retrieve a newly posted article": true, 
+  "test_comments_api.tavern.yaml::Adding a comment to an article that does not exist": true, 
+  "test_comments_api.tavern.yaml::Adding an anonymous comment to an article": true, 
+  "test_comments_api.tavern.yaml::Adding an authenticated comment to an article": true, 
+  "test_comments_api.tavern.yaml::Check comments on an article were returned in order": true
+}
